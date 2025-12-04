@@ -1,0 +1,19 @@
+# Interface web
+streamlit>=1.30.0
+
+# Variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Manipulação de PDFs
+PyMuPDF>=1.23.0
+
+# Framework de IA modular
+langchain>=0.1.0
+langchain-community>=0.0.20
+
+# Integração com OpenAI
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# Vetorização com FAISS
+faiss-cpu>=1.7.4
