@@ -1,0 +1,32 @@
+﻿"Organização";"Nome";"Descrição";"Tags";"Quantidade Recursos";"Quantidade Reusos";"Quantidade Downloads";"Quantidade Seguidores"
+"Força Aérea Brasileira";"CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira";"Dados de ocorrências aeronáuticas da aviação civil brasileira.
+# *Opendata AIG Brazil* 
+
+ 
+A base de dados de ocorrências aeronáuticas é gerenciada pelo Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA). Constam nesta base de dados as ocorrências aeronáuticas notificadas ao CENIPA a partir de 2007 que ocorreram em solo brasileiro. 
+
+Dentre as informações disponíveis estão os dados sobre as aeronaves envolvidas, fatalidades, local, data, horário dos eventos e informações taxonômicas típicas das investigações de acidentes (AIG). São resguardadas a privacidade de pessoas físicas/jurídicas envolvidas conforme previsto pela Lei de Acesso à Informação (Lei n° 12.527, de 18 de novembro de 2011). 
+
+Essa base de dados é composta por informações preliminares provenientes do Portal único de notificação (https://www2.fab.mil.br/cenipa/index.php/categoria-cenipa/1708-portal-unico)  e consolidada a partir dos relatórios de investigações publicados. Outra forma de visualização desses dados é pelo Painel SIPAER (https://painelsipaer.cenipa.fab.mil.br/extensions/Sipaer/home.html) disponível na página do CENIPA.
+
+Dados provenientes dos Programas de Gerenciamento de Prevenção administrados pelo CENIPA (Emissão de Raio Laser e Risco Baloeiro) não constam nestas bases. Esses programas possuem formulários próprios para coleta de dados com foco exclusivo para gerenciamento do risco, enquanto os dados coletados pelo formulário Portal único (https://www2.fab.mil.br/cenipa/index.php/categoria-cenipa/1708-portal-unico) de notificação têm foco principal na investigação de acidentes (AIG).
+
+# *Tabelas (arquivos)* 
+
+1. **OCORRÊNCIA.csv** - Informações sobre as ocorrências.  
+2. **OCORRÊNCIA_TIPO.csv** - Informações sobre o tipo de ocorrência.  
+3. **AERONAVE.csv** - Informações sobre as aeronaves envolvidas nas ocorrências.  
+4. **FATOR_CONTRIBUINTE.csv** - Informações sobre os fatores contribuinte das ocorrências que tiveram investigações finalizadas.  
+5. **RECOMENDAÇÃO.csv** - Informações sobre as recomendações de segurança geradas nas ocorrências.  
+Fonte: Sistema DÉDALO.
+# *Relacionamento entre as Tabelas* 
+
+https://dedalo.sti.fab.mil.br/dadosabertos/modelo_dados.png";"Cenipa,Comando da Aeronáutica,Dados Estratégicos,Sipaer,acidente aeronáutico,aviação civil,avião,helicóptero,investigação,prevenção,transporte aéreo";"7";"1";"23258";"28"
+"Força Aérea Brasileira";"Comando Geral de Pessoal";"Relação dos servidores públicos lotados no Comando da Aeronáutica.";"Aeronáutica,Comando da Aeronáutica,FAB,Força Aérea Brasileira,Militares,Quantitativo,Servidores";"4";"0";"246";"1"
+"Força Aérea Brasileira";"Consulta Pública";"Essa consulta visa identificar o grau de relevância das bases de dados da Força Aérea Brasileira ao cidadão. O resultado desta consulta contribuirá no processo de construção do Plano de Dados Abertos deste órgão.";"Dados Abertos";"1";"0";"122";"0"
+"Força Aérea Brasileira";"Estado-Maior da Aeronáutica";"Informações sobre Ações e Programas";"Ações,Orçamento,Prestação de contas,Programas";"3";"0";"120";"0"
+"Força Aérea Brasileira";"Gabinete do Comandante da Aeronáutica";"Este espaço reúne os conjuntos de dados abertos publicados pelo Gabinete do Comandante da Aeronáutica (GABAER), com foto em transparência, acesso à informação e controle social.
+
+Os dados disponíveis abrangem temas como voos de autoridades, concessões de medalhas e agenda oficial do Comandante da Aeronáutica.";"Agenda,BARTOLOMEU DE GUSMÃO,Medalha,MÉRITO AERONÁUTICO,Mérito,SANTOS DUMONT,autoridades,voos";"3";"0";"568";"15"
+"Força Aérea Brasileira";"Painel SIPAER";"O Painel SIPAER é uma ferramenta de visualização de dados sobre as ocorrências aeronáuticas da Aviação Civil Brasileira, nos últimos 10 anos.
+Os dados são exibidos em forma de gráficos e tabelas, que podem ser dinamicamente modificados conforme filtros de pesquisas aplicados pelo próprio usuário.";"CENIPA,Comando da Aeronáutica,SIPAER,acidentes aeronáuticos,aeronave,aeroporto,aeródromo,investigação,prevenção,recomendações de segurança,transporte aéreo";"1";"0";"788";"1"
