@@ -71,5 +71,4 @@ Docente na ECIT — Estudante Rebeca Cristina Alves Simões, contribuo para o de
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WandeilsonFerreira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swandeilson.ferreira@gmail.com)
 
----
- # MBA-em-Business-Intelligence-e-Big-Data
+ 
