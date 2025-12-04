@@ -1,0 +1,24 @@
+version: '3.7'
+
+services:
+  yarn:
+    image: ${YARN_IMAGE:-thisthiago/yarn:latest}
+    restart: no
+    container_name: yarn
+    hostname: yarn
+    environment:
+      WITH_JOBHISTORY_SERVER: 'true'
+    ports:
+      - 9820:9820 # HDFS IPC
+      - 9870:9870 # HDFS WebHDFS
+      - 8088:8088 # Yarn UI
+      - 8042:8042 # NodeManager UI
+    # if WITH_JOBHISTORY_SERVER=true
+      - 19888:19888 # MapReduce JobServer History UI
+    volumes:
+      # put some .xml files in /var/hadoop/conf/ to override defaults
+      - ./conf/hadoop/:/var/hadoop/conf/
+      - hadoop-data:/var/hadoop/data/
+
+volumes:
+  hadoop-data:

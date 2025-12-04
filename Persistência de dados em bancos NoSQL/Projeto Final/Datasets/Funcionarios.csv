@@ -1,0 +1,71 @@
+ORD,Cargos ,Matricula ,Nome ,Nascimento,Equipe,Cidade
+1,Diretor,913645,GABRIEL HENRIQUE ALVES RAMOS,9/15/1983,Assistente Administrativo,João Pessoa 
+2,Gerente Sênior,385921,ARTUR DANIEL COSTA FERREIRA,3/22/1975,Assistente Administrativo,João Pessoa 
+3,Gerente Sênior,740198,CAIO EDUARDO GOMES BARBOSA,11/1/1980,Assistente Administrativo,João Pessoa 
+4,Gerente Sênior,225763,BRUNO LEONARDO PEREIRA DA SILVA,6/10/1971,Assistente Administrativo,João Pessoa 
+5,Gerente de Departamento,693204,LUCIANO MARCOS RIBEIRO JUNIOR,8/3/1965,Assistente Administrativo,João Pessoa 
+6,Líder de Equipe,804517,RAFAEL AUGUSTO DE OLIVEIRA,1/29/1990,Assistente Administrativo,João Pessoa 
+7,Líder de Equipe,531086,LUIS FELIPE GONÇALVES DE SOUZA,5/18/1978,Assistente Administrativo,João Pessoa 
+8,Supervisor Sênior,476922,MARCELO JOSÉ DOS ANJOS,4/7/1963,Assistente Administrativo,João Pessoa 
+9,Supervisor Sênior,951378,PAULO HENRIQUE CARVALHO BRITO,2/14/1982,Assistente Administrativo,Expediente
+10,Especialista Sênior,108462,RICARDO LUIS DE ALMEIDA,10/20/1973,Analista de Equipe,João Pessoa 
+11,Especialista Sênior,729503,VINÍCIUS ANDRADE MELO,12/5/1986,Especialista de Inteligência de Negócios,João Pessoa 
+12,Especialista Sênior,338169,THIAGO NUNES DO NASCIMENTO,7/28/1974,Analista de Equipe,João Pessoa 
+13,Especialista Sênior,652410,VICTOR MANOEL DE LIMA,9/9/1989,Analista de Equipe,João Pessoa 
+14,Especialista Sênior,987054,LEONARDO LIMA COSTA,6/16/1969,Analista de Equipe,João Pessoa 
+15,Supervisor Sênior,210637,RENAN TEIXEIRA DA SILVA,3/24/1976,Analista de Equipe,João Pessoa 
+16,Analista Sênior,485219,LUCAS RODRIGUES DE MENDONÇA,11/30/1988,Analista de Equipe,João Pessoa 
+17,Analista Sênior,772905,PEDRO SOARES OLIVEIRA FILHO,8/12/1962,Analista de Equipe,João Pessoa 
+18,Analista Pleno,896142,FELIPE VIEIRA NOGUEIRA,5/4/1981,Assistente Administrativo,João Pessoa 
+19,Analista Pleno,154389,GUILHERME DE OLIVEIRA BARRETO,1/19/1972,Coordenador de Equipe,Campina Grande 
+20,Analista Sênior,587601,JOÃO PEDRO DE CASTRO,4/26/1968,Gerente de Projetos Estratégicos,Campina Grande 
+21,Analista Pleno,934256,DANIEL ALMEIDA FERREIRA,7/11/1977,Analista de Equipe,Campina Grande 
+22,Analista Sênior,667824,ANTONIO MARCOS SOUZA PEREIRA,9/2/1984,Coordenador de Equipe,Campina Grande 
+23,Analista Sênior,240591,ANDRÉ FRANCISCO DA ROCHA,12/17/1966,Analista de Equipe,João Pessoa 
+24,Analista Pleno,815730,CRISTIANO SANTOS BATISTA,2/21/1991,Analista de Equipe,João Pessoa 
+25,Analista Pleno,490268,EDUARDO DE JESUS MOREIRA,8/25/1970,Analista de Equipe,João Pessoa 
+26,Analista Pleno,701853,JOÃO VICTOR FARIAS GOMES,3/8/1985,Coordenador de Equipe,Campina Grande 
+27,Analista Pleno,356497,MATHEUS DA CUNHA SILVA,10/13/1979,Coordenador de Equipe,Campina Grande 
+28,Analista Pleno,928714,FÁBIO LUÍS GUEDES,1/6/1964,Coordenador de Equipe,Campina Grande 
+29,Analista Pleno,173046,MAURÍCIO RAMOS TEIXEIRA,11/23/1983,Analista de Equipe,João Pessoa 
+30,Analista Pleno,560982,SERGIO AUGUSTO DA COSTA,7/15/1971,Analista de Equipe,João Pessoa 
+31,Analista Pleno,889125,CARLOS ALBERTO DE ANDRADE,5/20/1980,Analista de Equipe,João Pessoa 
+32,Analista Sênior,425076,RAFAEL PEREIRA MARTINS,6/27/1978,Analista de Equipe,João Pessoa 
+33,Analista Pleno,798319,LEANDRO CESAR LIMA SANTOS,9/14/1985,Assistente Administrativo,Expediente
+34,Assistente Técnico,312658,DIOGO DE ARAÚJO MENDES,12/9/1976,Coordenador de Equipe,Campina Grande 
+35,Analista Pleno,647902,ALEX SANDRO MORAIS FILHO,2/18/1982,Analista de Equipe,João Pessoa 
+36,Analista Pleno,973451,TIAGO DE LIMA PEREIRA,10/24/1974,Coordenador de Equipe,Campina Grande 
+37,Assistente Técnico,239870,VITOR HUGO NASCIMENTO,4/3/1967,Analista de Equipe,João Pessoa 
+38,Assistente Técnico,506124,GUSTAVO HENRIQUE FONTES,1/11/1989,Analista de Equipe,Campina Grande 
+39,Assistente Técnico,831479,BERNARDO OLIVEIRA CRUZ,5/16/1972,Analista de Equipe,João Pessoa 
+40,Analista Pleno,185693,EDUARDO GOMES ALVES,8/29/1991,Analista de Equipe,João Pessoa 
+41,Assistente Técnico,459027,LUIS GUILHERME SANTOS,10/8/1980,Coordenador de Equipe,Campina Grande 
+42,Analista Pleno,762381,LUIZ FERNANDO BARRETO,12/2/1993,Analista de Equipe,João Pessoa 
+43,Analista Pleno,309546,MARCO AURÉLIO VIEIRA,7/19/1961,Analista de Equipe,João Pessoa 
+44,Assistente Técnico,624891,RAFAEL PEREIRA DE OLIVEIRA,4/14/1984,Coordenador de Equipe,Campina Grande 
+45,Assistente Técnico,940715,FRANCISCO CARLOS DO NASCIMENTO,9/27/1992,Analista de Equipe,João Pessoa 
+46,Analista Pleno,275189,PEDRO ANTÔNIO DE MOURA,3/1/1965,Analista de Equipe,João Pessoa 
+47,Assistente Técnico,598432,LUIS FERNANDO DA SILVA ALVES,5/26/1990,Analista de Equipe,João Pessoa 
+48,Assistente Técnico,851760,PAULO ROBERTO DE ASSIS,8/10/1988,Analista de Equipe,João Pessoa 
+49,Assistente Técnico,196024,RENAN CARVALHO SANTOS,2/5/1979,Analista de Equipe,João Pessoa 
+50,Assistente Técnico,468379,JULIO CESAR GOMES JUNIOR,4/13/1963,Coordenador de Equipe,Campina Grande 
+51,Especialista em Mídia/Eventos,780512,RICARDO LIMA MARTINS,6/28/1987,Especialista em Comunicação e Eventos,Campina Grande 
+52,Especialista Sênior em Mídia/Eventos,345890,JOSÉ LUIS DA SILVA,9/17/1970,Especialista em Comunicação e Eventos,Campina Grande 
+53,Especialista em Mídia/Eventos,619245,JOÃO RAIMUNDO DE CASTRO,4/21/1968,Especialista em Comunicação e Eventos,Campina Grande 
+54,Especialista em Mídia/Eventos,903781,MARCELO JÚNIOR BARBOSA,8/4/1981,Especialista em Comunicação e Eventos,Campina Grande 
+55,Especialista em Mídia/Eventos,258416,FRANCISCO MATEUS DE LIMA,10/15/1973,Especialista em Comunicação e Eventos,Campina Grande 
+56,Especialista em Mídia/Eventos,541907,ARTHUR VICENTE RIBEIRO,1/24/1976,Especialista em Comunicação e Eventos,Campina Grande 
+57,Especialista em Mídia/Eventos,876352,IGOR BRUNO DE SOUZA,3/7/1980,Especialista em Comunicação e Eventos,Campina Grande 
+58,Especialista em Mídia/Eventos,130985,MARCOS ANTÔNIO TEIXEIRA,11/16/1969,Especialista em Comunicação e Eventos,Campina Grande 
+59,Técnico em Mídia/Eventos,495120,PEDRO HENRIQUE BARROS,2/23/1991,Especialista em Comunicação e Eventos,Campina Grande 
+60,Gerente de Departamento,768253,WESLEY DE ANDRADE CAVALCANTE,5/9/1974,Estagiário de Projetos Especiais,Campina Grande 
+61,Líder de Equipe,321706,GUILHERME SILVA CARVALHO,12/14/1967,Estagiário de Projetos Especiais,Campina Grande 
+62,Líder de Equipe,605298,LEANDRO DA COSTA BRITO,8/27/1979,Estagiário de Projetos Especiais,Campina Grande 
+63,Líder de Equipe,998041,PAULO RICARDO DE MOURA,1/1/1983,Estagiário de Projetos Especiais,Campina Grande 
+64,Analista Pleno,214578,GUSTAVO DE ANDRADE LIMA,7/8/1985,Estagiário de Projetos Especiais,Campina Grande 
+65,Assistente Técnico,570934,JOÃO MANOEL SOARES,4/19/1972,Estagiário de Projetos Especiais,Campina Grande 
+66,Assistente Técnico,843612,JOSÉ ROBERTO DE LIMA JÚNIOR,10/26/1965,Estagiário de Projetos Especiais,Campina Grande 
+67,Assistente Técnico,107295,CÁSSIO VINÍCIUS DOS SANTOS,5/13/1988,Estagiário de Projetos Especiais,Campina Grande 
+68,Assistente Técnico,432587,LUCIANO ALVES DA COSTA,2/20/1977,Estagiário de Projetos Especiais,Campina Grande 
+69,Assistente Administrativo,756840,PEDRO MANUEL DE MOURA,6/25/1964,Estagiário de Projetos Especiais,Campina Grande 
+70,Analista Sênior,391206,LUCAS OLIVEIRA CARNEIRO,9/11/1982,Assistente Administrativo,João Pessoa 
